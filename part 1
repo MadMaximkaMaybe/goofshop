@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>goofshop-1</title>
+</head>
+<body>
+    <header><a href="">goofshop</a>
+    <nav>
+        <ul>
+            <li><a href="#" class="link-inline">Семена</a></li>
+            <li><a href="#" class="link-inline">Поддержка</a></li>
+            <li><a href="#" class="link-inline">Сорта</a></li>
+        </ul>
+    </nav>
+
+    <a href ="#" class="link-inline">Goofhelper@gmail.com</a>
+    <br><a href ="#" class="link-inline">+38 050 003 58 47</a>
+    </header>
+    <main>
+        <section>
+            <h1>ИНДИВИДУАЛЬНЫЙ ВЫБОР<br> ПОД ВАШИ ПОТРЕБНОСТИ</h1>
+            <button type="button" class="button"> Заказать услугу </button>
+        </section>
+        <section>
+            <ul>
+                <li>
+                    <h3>Внимание к деталям</h3>
+                    <p>Только качественные сорта</p>
+                </li>
+
+                <li>
+               <h3>Индивидуальный подход</h3>
+               <p>У нас есть что предложить каждому клиенту в зависимости от его интересов</p>
+                </li>
+
+                <li>
+                    <h3>Пунктуальность</h3>
+                    <p>Доставка, будь она по почте или на дом - всегда вовремя</p>
+                </li>
+
+                <li>
+                    <h3>Современные технологии</h3>
+                    <p>Мы используем только соверменные технологии взращивания</p>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+              <h2>Чем мы занимаемся</h2>
+        <ul> 
+    <li><img src="/Randpic/занятие1.jpg" alt="занятие1" width="370" height="300" /></li>
+    <li><img src="/Randpic/занятие2.jpg" alt="занятие2" width="370" height="300" /></li>
+    <li><img src="/Randpic/занятие3.jpg" alt="занятие3" width="370" height="300" /></li>
+        </ul>
+        </section>
+        
+            <h2> Наша команда </h2>
+            <ul>
+                <li>
+            <img src="/Randpic/Никита/алкаш.jpg" alt="Тестировщик" width="400" height="400"/>
+            <h3>Николай Зоря</h3>
+            <p>Тестировщик</p>
+        </li>
+        <li>
+            <img src="/Randpic/Лёша/photo_2022-06-06_14-32-24.jpg" alt="Работа с клинтами" width="400" height="400"/>
+            <h3>Александер Каменидзе</h3>
+            <p>Менеджер по работе с клинетами</p>
+        </li>
+<li>
+<img src="/Randpic/Паша/Клиенты.png" alt="Поставщик" width="400" height="400"/>
+<h3>Артём Алькатрас</h3>
+<p>Поставщик</p>
+</li>
+
+</li>
+    </ul>
+         </section>
+    </main>
+    <footer>
+        <a href="">GoofShop</a>
+        <address>
+            <a href ="#" class="link-inline">Carrer de Rosés, 33, 08028 Barcelona, Испания</a>
+            <br>
+            <a href ="#" class="link-inline">Goofhelper@gmail.com</a>
+            <br>
+            <a href ="#" class="link-inline">+38 050 003 58 47</a>
+        </address>
+    </footer>
+</body>
+</html>
